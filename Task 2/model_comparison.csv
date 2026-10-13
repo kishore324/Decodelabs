@@ -1,0 +1,4 @@
+model,accuracy,f1_macro
+KNN (K=5),0.9333,0.9327
+Logistic Regression,0.9333,0.9333
+Decision Tree,0.9333,0.9333
