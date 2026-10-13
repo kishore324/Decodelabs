@@ -1,0 +1,21 @@
+role,demand,skills
+Data Scientist,9,python;sql;machine learning;statistics;data analysis;pandas;scikit-learn;data visualization
+Machine Learning Engineer,9,python;machine learning;deep learning;tensorflow;pytorch;docker;mlops;git
+AI Engineer,10,python;deep learning;nlp;tensorflow;pytorch;apis;cloud computing;machine learning
+Data Analyst,8,sql;excel;data analysis;tableau;statistics;python;data visualization
+Data Engineer,9,python;sql;spark;etl;aws;airflow;data modeling;docker
+DevOps Engineer,9,aws;docker;kubernetes;ci/cd;linux;terraform;git;automation
+Cloud Engineer,8,cloud computing;aws;azure;terraform;linux;networking;automation;docker
+Cloud Architect,7,cloud computing;aws;azure;networking;security;kubernetes;terraform
+Site Reliability Engineer,7,linux;kubernetes;automation;python;monitoring;ci/cd;networking
+System Administrator,6,linux;networking;automation;security;bash;monitoring
+Backend Developer,9,java;python;sql;apis;git;docker;data structures;node.js
+Frontend Developer,9,javascript;react;html;css;git;typescript;apis
+Full Stack Developer,9,javascript;react;node.js;sql;html;css;apis;git
+Mobile App Developer,7,kotlin;swift;apis;git;data structures;android;ios
+Cybersecurity Analyst,8,security;networking;linux;python;monitoring;automation
+Software Engineer,10,data structures;algorithms;java;python;git;sql;apis
+QA Automation Engineer,6,python;automation;selenium;ci/cd;git;java;apis
+Database Administrator,5,sql;linux;security;monitoring;data modeling;automation
+Business Intelligence Developer,6,sql;tableau;excel;data visualization;etl;data modeling
+Blockchain Developer,4,solidity;javascript;cryptography;data structures;apis;git
